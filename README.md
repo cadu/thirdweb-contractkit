@@ -1,2 +1,1 @@
-# thirdweb-contractkit
-Thirdweb ContractKit
+## Thirdweb ContractKit
